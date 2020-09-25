@@ -4,3 +4,12 @@
   margin-right: 150px;
   margin-left: 80px;
 }
+
+aside {
+  width: 200px;
+  height: 200px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+
