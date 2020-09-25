@@ -1,6 +1,6 @@
 <?php include 'layouts/header.php'; ?>
 
-<div class="container">
+<div class="container-fluid">
   <div class="row">
     <div class="col-9">
       <h3 class="text-center">Video Principal</h3>
@@ -10,8 +10,8 @@
     </div>
     <div class="col-3">
       <h3 class="text-center">Más videos</h3>
-      <aside class="text-center">
-      <iframe width="200" height="200" src="https://www.youtube.com/embed/mWBRrQmZWSk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <aside class="text-center scroll">
+        <iframe width="200" height="200" src="https://www.youtube.com/embed/mWBRrQmZWSk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
         <iframe width="200" height="200" src="https://www.youtube.com/embed/-KCXyzpHTKE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
