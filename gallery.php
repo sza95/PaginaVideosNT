@@ -1,6 +1,6 @@
 <?php include 'layouts/header.php'; ?>
 <div class="container-fluid pb-video-container">
-    <div class="col-md-10 col-md-offset-1">
+    <div class="col-md-12 col-md-offset-1">
         <h2 class="text-center">Drum and Bass Video Gallery</h2>
         <hr>
         <h3>Pendulum</h3>

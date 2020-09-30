@@ -2,7 +2,7 @@
   margin-top: 10px;
   margin-bottom: 100px;
   margin-right: 150px;
-  margin-left: 80px;
+  margin-left: 150px;
 }
 
 .scroll{
@@ -10,14 +10,15 @@
   overflow-y: scroll;
 }
 
+
 .pb-video-container {
+  border: 2px solid rgb(58, 58, 58);
   padding-top: 20px;
   background: white;
-  font-family: Lato;
 }
 
 .pb-video {
-  border: 1px solid #e5d70e;
+  border: 1px solid rgb(58, 58, 58);
   padding: 5px;
 }
 
@@ -36,3 +37,10 @@
 .pb-row {
   margin-bottom: 10px;
 }
+
+body {
+  font-family: 'Teko';
+  font-size: 40px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
