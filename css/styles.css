@@ -12,17 +12,17 @@
 
 .pb-video-container {
   padding-top: 20px;
-  background: #bdc3c7;
+  background: white;
   font-family: Lato;
 }
 
 .pb-video {
-  border: 1px solid #e6e6e6;
+  border: 1px solid #e5d70e;
   padding: 5px;
 }
 
   .pb-video:hover {
-      background: #2c3e50;
+      background: white;
   }
 
 .pb-video-frame {
