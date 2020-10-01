@@ -10,8 +10,8 @@ function form() {
     let ciudadPersona = document.getElementById('cityId').value;
 
 
-    let mensaje = 
-    `
+    let mensaje =
+        `
     Nombre completo: ${primerNombre} ${segundoNombre} ${primerApellido} ${segundoApellido} \n
     Email: ${emailPersona} \n
     Dirección: ${direccionPersona} \n
