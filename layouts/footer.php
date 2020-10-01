@@ -5,6 +5,10 @@
         <div class="card-body">
           <h5 class="card-title">TuTubo</h5>
           <p class="card-text">Mira videos sin parar y sin anuncios.</p>
+          <small>Creador por Santiago Zapata Arboleda para el modulo Nuevas Tecnologias
+            <br>
+            Medellín - Antioquia 2020
+          </small>
         </div>
       </div>
     </footer>
